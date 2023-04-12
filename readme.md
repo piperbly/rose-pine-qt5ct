@@ -23,7 +23,7 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Sarah Allen Reed](Sarah Allen Reed)
 
 ## Contributing
 
